@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/uditchoudhary" target="blank"><img src="https://img.shields.io/twitter/follow/uditchoudhary?logo=twitter&style=for-the-badge" alt="uditchoudhary" /></a> </p>
 
-- 🔭 I’m currently working on **React and Redux**
-
-- 🌱 I’m currently learning **MERN Stack**
+- 🔭 I’m currently working on **MERN Stack**
 
 - 💬 Ask me about **Web, Mobile and App Test Automation**
 
