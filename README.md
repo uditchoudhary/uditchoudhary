@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Udit Choudhary</h1>
-<h3 align="center">A passionate Web Automation Tester and Full Stack Web Developer learner from Auckland</h3>
+<h3 align="center">A passionate Full Stack Web Developer and Web Automation Tester learner from Auckland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uditchoudhary&label=Profile%20views&color=0e75b6&style=flat" alt="uditchoudhary" /> </p>
 
